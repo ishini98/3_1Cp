@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Task3_1C</string>
+
+    <string name="check">Check</string>
+    <string name="next">Next</string>
+    <string name="quiz_app">Quiz App</string>
+    <string name="your_score">Your Score:</string>
+    <string name="congratulations_your_name">Congratulations Your Name!</string>
+    <string name="sit_305_quiz_app">SIT 305 Quiz App</string>
+    <string name="start">START</string>
+</resources>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="questions">
+        <item>What is the capital of France?</item>
+        <item>Who wrote the play "Romeo and Juliet"?</item>
+        <item>What is the largest planet in our solar system?</item>
+        <item>How many sides does a hexagon have?</item>
+        <item>Which famous scientist developed the theory of general relativity?</item>
+    </string-array>
+
+    <string-array name="choices">
+        <item>London</item>
+        <item>Paris</item>
+        <item>Rome</item>
+        <item>Berlin</item>
+        <item>William Shakespeare</item>
+        <item>Charles Dickens</item>
+        <item>Mark Twain</item>
+        <item>Emily Brontë</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Mars</item>
+        <item>Venus</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>Isaac Newton</item>
+        <item>Albert Einstein</item>
+        <item>Nikola Tesla</item>
+        <item>Marie Curie</item>
+    </string-array>
+
+
+    <string-array name="answers">
+        <item>Choice2</item>
+        <item>Choice1</item>
+        <item>Choice1</item>
+        <item>Choice3</item>
+        <item>Choice2</item>
+    </string-array>
+
+
+</resources>
+
